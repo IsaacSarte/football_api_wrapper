@@ -2,7 +2,7 @@ module Football
     class Request
 
         BASE_URL = 'https://v3.football.api-sports.io'
-        KEY = ENV['RAPID_KEY']
+        KEY = '6103b443ecdab47ef624a4a1856e918b'
         RAPID_HOST = 'v3.football.api-sports.io'
 
         def self.call(http_method, endpoint)
