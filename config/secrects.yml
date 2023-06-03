@@ -1,0 +1,2 @@
+production:
+  secret_key_base: dc5d8d4933296d08330937eb793b624e
